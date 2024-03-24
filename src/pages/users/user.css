@@ -1,0 +1,11 @@
+.users .info {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  margin-bottom: 10px;
+}
+.users .info button {
+  padding: 5px 10px;
+  border-radius: 6px;
+  cursor: pointer;
+}/*# sourceMappingURL=user.css.map */

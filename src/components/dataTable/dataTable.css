@@ -1,0 +1,23 @@
+.dataTable .dataGrid {
+  background-color: white;
+  padding: 15px;
+}
+.dataTable .dataGrid .MuiDataGrid-toolbarContainer {
+  flex-direction: row-reverse;
+}
+.dataTable .dataGrid img {
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+.dataTable .dataGrid .action {
+  display: flex;
+  gap: 12px;
+}
+.dataTable .dataGrid .action img {
+  height: 20px;
+  width: 20px;
+  cursor: pointer;
+}/*# sourceMappingURL=dataTable.css.map */
